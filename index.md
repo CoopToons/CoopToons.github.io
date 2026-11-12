@@ -79,3 +79,7 @@ We may update this policy to reflect changes to the app, its services, or applic
 Contact
 CoopToons
 cooptoons@gmail.com
+
+[Google Privacy Policy](https://policies.google.com/privacy)
+
+[Apple Game Center & Privacy](https://www.apple.com/legal/privacy/data/en/game-center/)
